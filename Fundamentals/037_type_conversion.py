@@ -10,4 +10,4 @@ guess = 2020 - int(birth_year)
 
 print("your age is: {guess}")
 
-# string interpolation and input from user
+# string interpolation and input from user as seen in video
