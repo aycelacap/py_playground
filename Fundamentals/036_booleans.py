@@ -6,4 +6,7 @@
 # it is a cornerstone of CS and it can denote logic 
 # 1 == true 
 # 0 == false
+# 
+# 
+
 
