@@ -19,4 +19,19 @@ print(5 in my_tuple) # True
 
 # Lagitude and Longitude can be represented in a tuple, for the location of a specific area
 
+user = {
+  'basket': [1, 2, 3],
+  'greet': 'hello',
+  'age': 20,
+  (1, 2) = [4, 5, 6]
+}
+
+print(user.items()) # dict_items([(key1, value1), (key2, value2), ...])
+
+# remember: keys in dictionaries must be immutable
+print(user[(1, 2)]) # -> [4, 5, 6]
+
+
+
+
 
