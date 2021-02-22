@@ -1,4 +1,5 @@
 # ODD SUMS
+# js presentations
 ​
 # Write a method that takes an array of numbers and returns the sum of all
 # odd numbers in the array.
