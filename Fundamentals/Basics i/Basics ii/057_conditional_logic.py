@@ -23,4 +23,5 @@ print('okokok')
 
 # if the condition of if and elif is false, we run else 
 
+# conditions
 
