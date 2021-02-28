@@ -25,3 +25,7 @@ print('okokok')
 
 # conditions
 
+if is_old and is_licensed:
+  print('both must evaluate to true if we want this to print out')
+# we can only enter one condition
+
