@@ -5,6 +5,10 @@ var subdomainVisits = function(cpdomains) {
 // each string has a number first and then the actual domain
 // we can save the visited domains in an object
 // at the very end if the key has '.com', we can tally up the values
+// 
+
+
+
     
     let visitCount = {}
     
