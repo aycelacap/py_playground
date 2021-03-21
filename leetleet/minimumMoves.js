@@ -7,6 +7,7 @@
  *  2. INTEGER_ARRAY arr2
  */
 
+// str
 // declare a value of numbers
 // accessing indices can determine increment/decrement (the elements 
 // don't have to be the same arr1[0] = 5, arr2[0] = 7 -> +2 in count)
