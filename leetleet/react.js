@@ -8,3 +8,5 @@
 // [ X ] Add CSS effect on hover of an image, zoom it inwards
 // [ X ] Create an input to search for specific author
 // [  ] Create an X button on each image to delete that image from the UI
+
+// idk
