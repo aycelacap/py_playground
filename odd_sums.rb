@@ -7,21 +7,34 @@
 # The method is expected to return an INTEGER
 # The method accepts a 'numbers' array as a parameter
 
-function oddSums(numbers) {
-  # this is where you code
-}
+def odd_sums(numbers)
+  # init a var for sum
+  # iterate over num array
+  # have a condition for finding odd numbers
+  # add those numbers to sum
+  # return 
+  
+end
+
+
+
+
+
+
+
+
 
 ​
-def odd_sums(numbers)
-#     odd_sum = 0
-# ​
-#     numbers.each do |num|
-#         if num % 2 != 0
-#             odd_sum += num //13
-#         end
-#     end
-# ​
-#     return odd_sum // 13
+def odd_sums(numbers) #[3, 6, 8, 9, 1]
+    odd_sum = 0
+​
+    numbers.each do |num|
+        if num % 2 != 0
+            odd_sum += num #13
+        end
+    end
+​
+    return odd_sum # 13
 end
 ​
 ​
