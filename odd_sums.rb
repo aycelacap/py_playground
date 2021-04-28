@@ -27,7 +27,7 @@ def odd_sums(numbers) # [3, 6, 8, 9, 1]
 ​
     numbers.each do |num|
         if num % 2 != 0
-            odd_sum += num # 13
+            odd_sum += num # 3 +  9 -> 12, 12 + 1 -> 13
         end
     end
 ​
