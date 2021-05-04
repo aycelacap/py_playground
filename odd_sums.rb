@@ -9,6 +9,12 @@
 
 def odd_sums(numbers)
 
+    # initialize a running total = 0
+    # iterate the numbers array
+    # if num % 2 == 0
+        # add to the running total
+
+    # return total by the end
 
   
 end
