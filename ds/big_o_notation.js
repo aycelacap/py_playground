@@ -9,11 +9,22 @@
 // Linearly O(N) -> as input increases, the speed of the algorithm increases linearly
 // were gonna do as many iterations as there is n
 
-// Pairing function -> n iterations for every n -> O(N^2) 
+// Polynomial function -> n iterations for every n -> O(N^2) 
 
 // Asymptotic Analysis -> study the behaviour of a function as n approaches infinity
 
 // /////// constant ///////////
-// we dont care about elementary constants
+// we dont care about elementary constants, have a fixed amount of fillling in mempry slots
+// we only care about significant operations/factors in our complexity
+
+// what is the Big-O notation of O(N^2 + N + 1)?
+// as n approaches infinity, N and 1 become insignificant, so O(n^2) 
+// is the big-O notation for O(N^2 + N + 1)
+
+// O(N) 
+// O(log(n))
+// O(N)
+// O(N^2)
+
 
 
